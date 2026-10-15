@@ -10,7 +10,7 @@ Mon intro
 
 #Titre 2
 Ma bio :
-Nous sommes une entreprise qui vendent des produits techs
+Nous sommes une entreprise qui vendent des produits techs etc
 
 
 
